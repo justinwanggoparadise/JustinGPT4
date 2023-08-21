@@ -57,7 +57,7 @@ Contributions to MewBot are welcome! If you have a feature request, bug report, 
 
 If you need help with MewBot, please open an issue on GitHub. We'll do our best to help you out.
 
-## License
+## Licensess
 
 MewBot is open source software licensed under the MIT license. See the LICENSE file for more information.
 
